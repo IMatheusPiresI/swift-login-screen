@@ -16,8 +16,7 @@ Project repository **Login-Screen** development with **Swift, UIKit, Constraints
 
 ◽ Clone the repository using Git Bash + the command:
 
-       $ git clone git@github.com:IMatheusPiresI/rn-test-1merge.git](https://github.com/IMatheusPiresI/swift-dice-roll.git
-
+       $ git clone git@github.com:IMatheusPiresI/swift-login-screen.git
 
 <h3 id="sobre">📍 About</h3>
 
